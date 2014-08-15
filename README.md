@@ -1,4 +1,4 @@
-Responsive Admin Maintenance Pro With Countdown
+Responsive Maintenance Pro With Countdown
 ============
 
 Create stylish Coming Soon or Maintenance Mode page. Work on your site while visitors see a "Coming Soon" or "Maintenance " page. On that plugin there have 6 different style responsive template with CSS3 animations, Youtube Background video and still image background template.
